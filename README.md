@@ -2,7 +2,7 @@
 Here is the code to perform DBA-GP attack, based on the Foolbox library.
 
 # Environment: #
-`<div>conda env create -f environment.yaml</div>`
+`conda env create -f environment.yaml`
 
 # Running: #
-You can run `<div>main.py</div>`. It will perform DBA-GP on some Foolbox test images. 
+You can run `main.py`. It will perform DBA-GP on some Foolbox test images. 
